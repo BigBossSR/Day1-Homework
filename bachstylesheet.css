@@ -1,0 +1,65 @@
+#adult-list {
+  border: dotted;
+  border-color: grey;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 15px;
+  font-size: 14px;
+}
+
+#copyright {
+  text-align: center;
+  font-size: 11px;
+  color: white;
+  text-decoration: underline;
+}
+
+.caption{
+  font-size: 11px;
+  text-align: center;
+  color: rgb(100, 200, 100);
+}
+
+.title_table {
+  text-align: center;
+  colspan: 3;
+}
+
+.first-cell {
+  font-weight: bold;
+  color: rgb(250,150,50);
+  text-align: center;
+  text-decoration:underline;
+  font-size: 20px;
+}
+
+body {
+  background-color: rgb(50, 150, 190);
+  font-family: brush script, verdana;
+  color: rgb(240,240,240);
+  width: 80%;
+}
+
+div {
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(50,50,50);
+}
+
+h3 {
+  color: rgb(200, 200, 00);
+  font-family: monospace, courier;
+}
+
+td {
+  border: double black;
+  font-family: arial;
+}
+
+td img {
+  width: 300px; 
+}
+
